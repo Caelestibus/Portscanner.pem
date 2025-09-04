@@ -2,13 +2,13 @@
 
 #### Creating a personalized port scanner for scanning the open ports available on a particular Ip Address. The portscanner allows scanner multiple Ip addresses and the amount of ports specified to scan.
 ---
-Tools
+### Tools
 - Python programming Language.
 - A system you have authorization to scan (Preferably a virtual machine or in real world cases your router).
 - Kali linux.
 ---
 
-Steps Imployed
+### Steps Imployed
 
 #### 1. Create a directory
 
@@ -71,3 +71,9 @@ python3 roro.py
 ```
 ---
 #### 4. There's also an option of cloning the python script to make some adjustment that can suite your immediate needs or run it directly.
+
+```bash
+git clone https://github.com/Caelestibus/Portscanner.pem.git
+```
+#### _Open file and access roro.py_
+---
